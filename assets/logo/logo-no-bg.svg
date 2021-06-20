@@ -1,0 +1,19 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="75" cy="75" r="75" fill="#fff"/>
+<circle cx="75" cy="75" r="70" fill="#14878E"/>
+<line y1="72" x2="35" y2="72" stroke="white" stroke-width="4"/>
+<line x1="33.6271" y1="70.7661" x2="47.8669" y2="117.547" stroke="white" stroke-width="4"/>
+<line x1="47.3159" y1="118.163" x2="72.3113" y2="35.165" stroke="white" stroke-width="4"/>
+<line x1="72.4477" y1="37.5276" x2="86.934" y2="92.4903" stroke="white" stroke-width="4"/>
+<line x1="86.1102" y1="92.3453" x2="96.5852" y2="62.1083" stroke="white" stroke-width="4"/>
+<line x1="95.5336" y1="62.6576" x2="103.534" y2="80.66" stroke="white" stroke-width="4"/>
+<line x1="107.968" y1="68.3044" x2="103.07" y2="81.7608" stroke="white" stroke-width="4"/>
+<line x1="107.816" y1="65.8425" x2="113.185" y2="74.2792" stroke="white" stroke-width="4"/>
+<line x1="112" y1="73" x2="150" y2="73" stroke="white" stroke-width="4"/>
+<line x1="40" y1="14" x2="40" y2="51" stroke="black" stroke-width="2"/>
+<ellipse cx="40" cy="49" rx="2" ry="4" fill="#FBF700"/>
+<circle cx="40" cy="54" r="5" fill="#FBF700"/>
+<ellipse cx="57" cy="30.5" rx="1" ry="1.5" fill="#FBF700"/>
+<circle cx="57" cy="33.5" r="2.5" fill="#FBF700"/>
+<line x1="56.75" y1="7" x2="56.75" y2="29" stroke="black" stroke-width="1.5"/>
+</svg>
